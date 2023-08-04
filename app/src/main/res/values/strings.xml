@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InputMarks</string>
+    <string name="Main_Page">Main Page</string>
+    <string name="Second_Page">PageSummary</string>
+    <string name="function1"> ENTER  SCORES </string>
+    <string name="function2">SHOW SUMMARY</string>
+    <string name="function3">Clear</string>
+    <string name="enter_names">enter names</string>
+    <string name="enter_marks">enter marks</string>
+    <string name="enter">Enter</string>
+    <string name="cancel">Cancel</string>
+    <string name="prop1">num of marks</string>
+    <string name="prop2">total mark</string>
+    <string name="prop3">average mark</string>
+    <string name="prop4">highest mark</string>
+    <string name="prop5">lowest mark</string>
+    <string name="All">show all marks</string>
+    <string name="Return">return to main page</string>
+</resources>
